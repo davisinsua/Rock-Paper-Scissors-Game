@@ -32,4 +32,4 @@ Ai wins the round, their score is updated.
 
 ![](screens/s5.PNG)
 
-Late into the game.
+Screenshot showing the late game.
